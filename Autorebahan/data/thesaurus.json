@@ -1,0 +1,119 @@
+{
+    "id": {
+        "menggunakan": {
+            "verb": ["memakai", "memanfaatkan", "mengoperasikan", "menerapkan", "menggunakan"],
+            "noun": ["penggunaan", "aplikasi", "penerapan", "implementasi"],
+            "phrases": [
+                "dengan memanfaatkan",
+                "melalui penggunaan",
+                "dengan mengaplikasikan"
+            ]
+        },
+        "bagus": {
+    "adj": ["baik", "unggul", "berkualitas", "prima"],
+    "phrases": [
+        "di atas rata-rata",
+        "sangat memuaskan",
+        "di luar ekspektasi"
+    ]
+},
+        "teknologi": {
+            "noun": ["inovasi", "rekayasa", "perangkat", "sistem", "peralatan"],
+            "verb": ["berinovasi", "mengembangkan teknologi", "merancang sistem"],
+            "phrases": [
+                "kemajuan teknis",
+                "perkembangan digital",
+                "terobosan mutakhir"
+            ]
+        },
+        "cepat": {
+            "adj": ["gesit", "tangkas", "cekatan", "kilat"],
+            "adv": ["dengan cepat", "secara kilat", "dalam sekejap"],
+            "phrases": [
+                "tanpa menunggu lama",
+                "dalam waktu singkat",
+                "secepat kilat"
+            ]
+        },
+        "penting": {
+            "adj": ["krusial", "vital", "esensial", "urgent"],
+            "noun": ["prioritas", "kepentingan", "urgensi"],
+            "phrases": [
+                "memegang peranan kunci",
+                "menjadi faktor penentu",
+                "memiliki arti strategis"
+            ]
+        },
+        "digital": {
+    "adj": ["numerik", "elektronik", "online"],
+    "phrases": [
+        "di era modern",
+        "berbasis internet",
+        "secara virtual"
+    ]
+},
+        "membantu": {
+            "verb": ["menunjang", "mempermudah", "mendukung", "memfasilitasi"],
+            "phrases": [
+                "memberikan kontribusi",
+                "berperan aktif dalam",
+                "menjadi solusi untuk"
+            ]
+        }
+    },
+    "en": {
+        "use": {
+            "verb": ["utilize", "employ", "operate", "apply", "leverage"],
+            "noun": ["usage", "application", "implementation"],
+            "phrases": [
+                "by means of",
+                "through the application of",
+                "making use of"
+            ]
+        },
+        "technology": {
+            "noun": ["innovation", "engineering", "system", "device", "tool"],
+            "verb": ["develop technology", "engineer systems", "innovate"],
+            "phrases": [
+                "technical advancement",
+                "digital transformation",
+                "cutting-edge solution"
+            ]
+        },
+        "fast": {
+            "adj": ["quick", "rapid", "swift", "speedy"],
+            "adv": ["quickly", "rapidly", "promptly"],
+            "phrases": [
+                "in no time",
+                "at lightning speed",
+                "without delay"
+            ]
+        },
+        "important": {
+            "adj": ["crucial", "vital", "essential", "critical"],
+            "noun": ["priority", "significance", "urgency"],
+            "phrases": [
+                "plays a key role",
+                "a determining factor",
+                "of strategic importance"
+            ]
+        },
+        "help": {
+            "verb": ["assist", "support", "facilitate", "aid"],
+            "phrases": [
+                "contribute to",
+                "provide solutions for",
+                "play an active role in"
+            ]
+        },
+        "improve": {
+            "verb": ["enhance", "boost", "upgrade", "optimize"],
+            "noun": ["improvement", "enhancement", "optimization"],
+            "phrases": [
+                "take to the next level",
+                "bring about positive changes",
+                "add value to"
+            ]
+        }
+    }
+}
